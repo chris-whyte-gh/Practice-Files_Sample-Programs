@@ -11,3 +11,5 @@ end
 puts area(3, 6)
 puts area(4, 4)
 puts perimeter(1, 5)
+
+#can remove the return method and it will work. Can also store as a variable
